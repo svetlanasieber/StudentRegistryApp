@@ -1,1 +1,1 @@
-# CI_CD-Repo
+Student Registry App
